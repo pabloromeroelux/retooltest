@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "User 000",
+      "email": "user00@retooltest.com",
+      "sales": 100
+    },
+    {
+      "id": 1,
+      "name": "User 001",
+      "email": "user01@retooltest.com",
+      "sales": 100
+    },
+    {
+      "id": 2,
+      "name": "User 002",
+      "email": "user02@retooltest.com",
+      "sales": 100
+    }
+  ]
+}
